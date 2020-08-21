@@ -108,7 +108,7 @@ class _HomeState extends State<Home> {
                       Row(
                         children: <Widget>[
                           Padding(
-                            padding: EdgeInsets.only(right: 4.0),
+                            padding: EdgeInsets.only(right: 4.1),
                             child: Icon(
                               Icons.location_on,
                               color: Colors.black,
